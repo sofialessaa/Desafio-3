@@ -1,0 +1,36 @@
+/* CSS de todas as páginas */
+body{
+    padding: 0;
+    margin: 0 auto;
+    width: 48%;    
+}
+
+.topo{ 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+h4{text-align: center;}
+
+
+/* Página Home */
+.capa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 22px;
+}
+
+
+/* Página Quem Somos */
+.topicos{
+    padding: 0;
+    margin-left: 20px;
+    line-height: 5px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
